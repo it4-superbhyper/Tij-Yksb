@@ -1,6 +1,6 @@
 streamlit
-pymupdf
-pandas
+PyMuPDF
 matplotlib
+pandas
 seaborn
-fpdf
+reportlab
